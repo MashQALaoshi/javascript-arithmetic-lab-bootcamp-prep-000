@@ -1,7 +1,8 @@
 Function add(a + b) {
-  var a =5, b=3
-  console.log()
+  console.log(2,5)
 }
+
+
 subtract()
 multiply()
 divide()
