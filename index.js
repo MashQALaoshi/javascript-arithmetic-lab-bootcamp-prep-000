@@ -28,5 +28,5 @@ inc(5)
 function dec(n) {
   return --n;
 }
-inc(5)
+dec(5)
 
