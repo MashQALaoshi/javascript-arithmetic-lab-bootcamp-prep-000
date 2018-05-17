@@ -21,7 +21,7 @@ divide(10,5)
 
 function inc() {
   var n = 5
-  return ++n;
+  return n++;
 }
 
 
