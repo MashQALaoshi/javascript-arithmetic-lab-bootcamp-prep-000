@@ -30,7 +30,7 @@ function dec(n) {
 }
 dec(5)
 
-function makeInt() {
+function makeInt(n) {
   return parseInt('n', 10)
 } 
 parseInt ('54')
