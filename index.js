@@ -8,5 +8,8 @@ function subtract(c,d) {
 }
 subtract(5,1)
 
-multiply()
+function multiply(e,f) {
+  return(e-f)
+}
+multiply(5,10)
 divide()
