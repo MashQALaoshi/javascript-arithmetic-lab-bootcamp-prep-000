@@ -19,6 +19,6 @@ function divide(x,y) {
 divide(10,5)
 
 function inc(n) {
-  return(n++)
+  return(inc +=4)
 }
 inc(5)
