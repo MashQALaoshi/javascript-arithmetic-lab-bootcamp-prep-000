@@ -9,7 +9,7 @@ function subtract(c,d) {
 subtract(5,1)
 
 function multiply(e,f) {
-  return(e-f)
+  return(e*f)
 }
 multiply(5,10)
 
