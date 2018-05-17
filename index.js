@@ -23,10 +23,10 @@ function inc(n) {
   
   return ++n;
 }
+inc(5)
 
-
-function dec(5) {
-  var n = 5
+function dec(n) {
   return --n;
 }
+inc(5)
 
