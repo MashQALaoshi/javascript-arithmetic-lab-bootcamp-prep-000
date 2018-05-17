@@ -33,7 +33,7 @@ dec(5)
 function makeInt(n) {
   return parseInt('n', 10)
 } 
-makeInt ('54')
+makeInt('54')
 
 function preserveDecimal(n) {
 return parseFloat('n')  
