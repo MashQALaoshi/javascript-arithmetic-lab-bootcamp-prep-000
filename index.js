@@ -12,4 +12,8 @@ function multiply(e,f) {
   return(e-f)
 }
 multiply(5,10)
-divide()
+
+function divide(x,y) {
+  return(x/y)
+}
+divide(10,5)
