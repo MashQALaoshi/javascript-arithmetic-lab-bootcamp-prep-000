@@ -33,7 +33,7 @@ dec(5)
 function makeInt(n) {
   return parseInt('n', 10)
 } 
-parseInt ('5')
+parseInt ('boo')
 
 function preserveDecimal(n) {
 return parseFloat('n')  
