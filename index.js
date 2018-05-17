@@ -3,6 +3,10 @@ function add(a,b) {
 }
 add(5,3)
 
-subtract()
+function subtract(c,d) {
+  return(c-d)
+}
+subtract(5,1)
+
 multiply()
 divide()
